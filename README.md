@@ -9,3 +9,7 @@ A chrome extension that helps you validate dodgy internet claims through [Snopes
 
 #### Disclaimer:
 CheckFact✅ and the author are not affiliated with [Snopes](https://www.snopes.com/) in any way, shape or form.
+
+### Changelog:
+(1.0.1)
+- Added search text box in popup to search Snopes with custom keywords
