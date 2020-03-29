@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "CheckFact✔",
 	"description": "Search Snopes to fact check dodgy internet claims",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"permissions": [
 		"tabs",
 		"contextMenus"
