@@ -1,6 +1,6 @@
 {
 	"manifest_version": 2,
-	"name": "FactCheck",
+	"name": "CheckFact",
 	"description": "Search Snopes to fact check a certain claim",
 	"version": "0.0.1",
 	"permissions": [
