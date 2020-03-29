@@ -13,3 +13,6 @@ CheckFact✅ and the author are not affiliated with [Snopes](https://www.snopes.
 ### Changelog:
 (1.0.1)
 - Added search text box in popup to search Snopes with custom keywords
+
+(1.0.1)
+- Remove screenshots from source code to make app more lightweight
