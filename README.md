@@ -8,4 +8,4 @@ A chrome extension that helps you validate dodgy internet claims through [Snopes
 ![Step 1](src/images/screenshots/screenshot_2.jpg)
 
 #### Disclaimer:
-I am not affiliated to [Snopes](https://www.snopes.com/) in any way, shape or form.
+CheckFact✅ and the author are not affiliated with [Snopes](https://www.snopes.com/) in any way, shape or form.
