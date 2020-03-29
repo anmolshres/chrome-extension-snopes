@@ -5,4 +5,4 @@ A chrome extension that helps you validate dodgy internet claims through [Snopes
 3. Check validity of said claim on redirected Snopes page
 
 #### Disclaimer:
-I am not affiliated to [Snopes](https://www.snopes.com/) in any way, shape or form.
+CheckFact✅ and the author are not affiliated with [Snopes](https://www.snopes.com/) in any way, shape or form.
