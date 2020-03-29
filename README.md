@@ -1,4 +1,4 @@
-## CheckFact✅
+## CheckFact✅ (1.0.0)
 A chrome extension that helps you validate dodgy internet claims through [Snopes](https://www.snopes.com/) with three easy steps:
 1. Use mouse to select dodgy internet claim
 2. Right click on highlighted text and click on "Search Snopes for..."
